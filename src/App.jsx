@@ -69,6 +69,7 @@ const copyPasswordToCllipboard =useCallback(()=>{
     defaultChecked={NumberAllowed}
     onChange={()=>setNumberAllowed(!NumberAllowed)}
     />
+    <br />
     <label >Numbers</label>
     </div>
     
