@@ -63,6 +63,7 @@ const copyPasswordToCllipboard =useCallback(()=>{
     />
     <label > length : {length}</label>
     </div>
+    <br />
     <div>
     <input
     type='checkbox'
